@@ -1,5 +1,5 @@
 ## Web Scraping using BeautifulSoup4
-A helmet detection tool built using OpenCV and Tensorflow, written in Python3.
+Web scraping timesjobs website using BeautifulSoup4
 #### Install required packages
 ```
 pip install beautifulsoup4
